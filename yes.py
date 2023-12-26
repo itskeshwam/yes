@@ -7,3 +7,7 @@ pygame.display.set_caption("YESSSSSS") #game ka naam
 exit_game= False
 game_over= False
 
+# game loop
+while not exit_game:
+    pass
+
